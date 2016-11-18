@@ -14,6 +14,6 @@ see LICENSE file. (2-clause BSD)
 
 # Authors
 
-Hauke Behrens <behrens@bytemine.net>
-Ruben Schuller <schuller@bytemine.net>
+* Hauke Behrens <behrens@bytemine.net>
+* Ruben Schuller <schuller@bytemine.net>
 
